@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nitin-sharma-portfolio/static/css/main.ab0139bf.css",
+    "main.js": "/Nitin-sharma-portfolio/static/js/main.bc8216a0.js",
+    "static/media/Parallax.png": "/Nitin-sharma-portfolio/static/media/Parallax.ce709857e65663b5ab65.png",
+    "static/media/Bubble.png": "/Nitin-sharma-portfolio/static/media/Bubble.ea4c6886db658b0ccb6f.png",
+    "static/media/Stay Dreaming Regular.ttf": "/Nitin-sharma-portfolio/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
+    "static/media/recipe-finder.png": "/Nitin-sharma-portfolio/static/media/recipe-finder.c8e1106b1b772d3db9cd.png",
+    "static/media/img3.png": "/Nitin-sharma-portfolio/static/media/img3.9d4a4ae6a36ed8eb8acf.png",
+    "static/media/Manga.png": "/Nitin-sharma-portfolio/static/media/Manga.9469121cecff3086a82c.png",
+    "static/media/Clone.png": "/Nitin-sharma-portfolio/static/media/Clone.88435c0dbbe2ad3ad73b.png",
+    "static/media/node.png": "/Nitin-sharma-portfolio/static/media/node.9d5d9c4bdaf475fb7f10.png",
+    "index.html": "/Nitin-sharma-portfolio/index.html",
+    "static/media/github.svg": "/Nitin-sharma-portfolio/static/media/github.225330f7969dd84facf306c68f4fc3f4.svg",
+    "main.ab0139bf.css.map": "/Nitin-sharma-portfolio/static/css/main.ab0139bf.css.map",
+    "main.bc8216a0.js.map": "/Nitin-sharma-portfolio/static/js/main.bc8216a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0139bf.css",
+    "static/js/main.bc8216a0.js"
+  ]
+}
