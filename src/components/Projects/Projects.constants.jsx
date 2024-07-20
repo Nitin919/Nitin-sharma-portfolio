@@ -24,7 +24,7 @@ export const web = [
 		name: 'MERN-ChatApp',
 		date: '-',
 		cover: img,
-		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/ChatApp/' }],
+		links: [{ icon: gitLink, link: 'https://mernchatapp-1vbo.onrender.com/' }],
 	},
 	{
 		name: 'Recipe-Finder',
