@@ -48,7 +48,7 @@ export const web = [
 		name: 'Parallax-Effect',
 		date: '-',
 		cover: parallax,
-		links: [{ icon: gitLink, link: 'https://github.com/Nitin919' }],
+		links: [{ icon: gitLink, link: 'https://nitin919.github.io/parallax/' }],
 	},
 ];
 
