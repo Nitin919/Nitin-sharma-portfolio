@@ -12,7 +12,7 @@ export const web = [
 		name: 'MERN-ChatApp',
 		date: '-',
 		cover: img,
-		links: [{ icon: gitLink, link: 'https://mernchatapp-1vbo.onrender.com/' }],
+		links: [{ icon: gitLink, link: 'https://mernchatapp-1vbo.onrender.com' }],
 	},
 	
 	{
