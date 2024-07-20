@@ -24,7 +24,7 @@ export const web = [
 		name: 'MERN-ChatApp',
 		date: '-',
 		cover: img,
-		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/ChatApp' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/ChatApp/' }],
 	},
 	{
 		name: 'Recipe-Finder',
@@ -42,7 +42,7 @@ export const web = [
 		name: 'BUBBLE-LANDING-PAGE',
 		date: '-',
 		cover: bubble,
-		links: [{ icon: gitLink, link: 'https://github.com/Nitin919' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/' }],
 	},
 	{
 		name: 'Parallax-Effect',
