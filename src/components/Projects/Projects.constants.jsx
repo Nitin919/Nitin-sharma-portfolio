@@ -18,13 +18,13 @@ export const web = [
 		name: 'Google-Gemini-Clone',
 		date: '-',
 		cover: Clone,
-		links: [{ icon: gitLink, link: 'https://nitin919.github.io/Google-Gemini-Clone/' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/Google-Gemini-Clone' }],
 	},
 	{
 		name: 'MERN-ChatApp',
 		date: '-',
 		cover: img,
-		links: [{ icon: gitLink, link: 'https://nitin919.github.io/Google-Gemini-Clone/' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/ChatApp' }],
 	},
 	{
 		name: 'Recipe-Finder',
@@ -42,13 +42,13 @@ export const web = [
 		name: 'BUBBLE-LANDING-PAGE',
 		date: '-',
 		cover: bubble,
-		links: [{ icon: gitLink, link: '/' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919' }],
 	},
 	{
 		name: 'Parallax-Effect',
 		date: '-',
 		cover: parallax,
-		links: [{ icon: gitLink, link: '/' }],
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919' }],
 	},
 ];
 
