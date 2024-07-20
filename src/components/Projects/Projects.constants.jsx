@@ -1,7 +1,7 @@
 import gitLink from '../../Assets/images/links/github.svg';
 // import portfolio from '../../Assets/images/projects/portfolio.png';
 import Clone from '../../Assets/images/projects/Clone.png';
-import img from '../../Assets/images/projects/img3.png';
+import img3 from '../../Assets/images/projects/img3.png';
 import recipe from '../../Assets/images/projects/recipe-finder.png';
 import manga from '../../Assets/images/projects/Manga.png';
 import bubble from '../../Assets/images/projects/Bubble.png';
@@ -11,7 +11,7 @@ export const web = [
 	{
 		name: 'MERN-ChatApp',
 		date: '-',
-		cover: img,
+		cover: img3,
 		links: [{ icon: gitLink, link: 'https://mernchatapp-1vbo.onrender.com' }],
 	},
 	
