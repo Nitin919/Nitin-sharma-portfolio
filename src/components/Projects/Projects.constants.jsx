@@ -8,24 +8,20 @@ import bubble from '../../Assets/images/projects/Bubble.png';
 import parallax from '../../Assets/images/projects/Parallax.png';
 
 export const web = [
-	// {
-	// 	name: 'Portfolio',
-	// 	date: '-',
-	// 	cover: portfolio,
-	// 	links: [{ icon: gitLink, link: '' }],
-	// },
-	{
-		name: 'Google-Gemini-Clone',
-		date: '-',
-		cover: Clone,
-		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/Google-Gemini-Clone' }],
-	},
 	{
 		name: 'MERN-ChatApp',
 		date: '-',
 		cover: img,
 		links: [{ icon: gitLink, link: 'https://mernchatapp-1vbo.onrender.com/' }],
 	},
+	
+	{
+		name: 'Google-Gemini-Clone',
+		date: '-',
+		cover: Clone,
+		links: [{ icon: gitLink, link: 'https://github.com/Nitin919/Google-Gemini-Clone' }],
+	},
+	
 	{
 		name: 'Recipe-Finder',
 		date: '-',
