@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Nitin-sharma-portfolio/static/css/main.ab0139bf.css",
-    "main.js": "/Nitin-sharma-portfolio/static/js/main.98be1313.js",
+    "main.css": "/Nitin-sharma-portfolio/static/css/main.30aa58ed.css",
+    "main.js": "/Nitin-sharma-portfolio/static/js/main.afa2e4ed.js",
     "static/media/Parallax.png": "/Nitin-sharma-portfolio/static/media/Parallax.ce709857e65663b5ab65.png",
     "static/media/Bubble.png": "/Nitin-sharma-portfolio/static/media/Bubble.ea4c6886db658b0ccb6f.png",
     "static/media/Stay Dreaming Regular.ttf": "/Nitin-sharma-portfolio/static/media/Stay Dreaming Regular.5f41e4323ae718ea1439.ttf",
@@ -12,11 +12,11 @@
     "static/media/node.png": "/Nitin-sharma-portfolio/static/media/node.9d5d9c4bdaf475fb7f10.png",
     "index.html": "/Nitin-sharma-portfolio/index.html",
     "static/media/github.svg": "/Nitin-sharma-portfolio/static/media/github.225330f7969dd84facf306c68f4fc3f4.svg",
-    "main.ab0139bf.css.map": "/Nitin-sharma-portfolio/static/css/main.ab0139bf.css.map",
-    "main.98be1313.js.map": "/Nitin-sharma-portfolio/static/js/main.98be1313.js.map"
+    "main.30aa58ed.css.map": "/Nitin-sharma-portfolio/static/css/main.30aa58ed.css.map",
+    "main.afa2e4ed.js.map": "/Nitin-sharma-portfolio/static/js/main.afa2e4ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab0139bf.css",
-    "static/js/main.98be1313.js"
+    "static/css/main.30aa58ed.css",
+    "static/js/main.afa2e4ed.js"
   ]
 }
