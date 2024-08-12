@@ -17,48 +17,63 @@
 		align-items: center;
 		width: 100%;
 
-		.menuButton {
-			width: 40px;
-			height: 40px;
+		.menuButtonContainer {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
 			position: relative;
-			top: 0.4vw;
-			z-index: 2;
 
-			.top,
-			.left,
-			.right {
-				width: 10px;
-				height: 10px;
-				background-color: $text-color;
-				border-radius: 3px;
-				position: absolute;
-				transform: rotate(45deg);
+			.clickHereText {
+				text-align: center;
+				margin-bottom: 10px;
+				font-size: 1.2rem;
+				color: $text-color; // Use your defined text color variable
+				cursor: pointer;
 			}
-			.top {
-				top: 8px;
-				left: 0;
-				right: 0;
-				margin: auto;
-			}
-			.left {
-				top: 17px;
-				left: 6px;
-			}
-			.right {
-				top: 17px;
-				right: 6px;
-			}
-			.bottom {
-				width: 6px;
-				height: 6px;
-				background-color: greenyellow;
-				border-radius: 2px;
-				position: absolute;
-				transform: rotate(45deg);
-				bottom: 8px;
-				left: 0;
-				right: 0;
-				margin: auto;
+
+			.menuButton {
+				width: 40px;
+				height: 40px;
+				position: relative;
+				top: 0.4vw;
+				z-index: 2;
+
+				.top,
+				.left,
+				.right {
+					width: 10px;
+					height: 10px;
+					background-color: $text-color;
+					border-radius: 3px;
+					position: absolute;
+					transform: rotate(45deg);
+				}
+				.top {
+					top: 8px;
+					left: 0;
+					right: 0;
+					margin: auto;
+				}
+				.left {
+					top: 17px;
+					left: 6px;
+				}
+				.right {
+					top: 17px;
+					right: 6px;
+				}
+				.bottom {
+					width: 6px;
+					height: 6px;
+					background-color: greenyellow;
+					border-radius: 2px;
+					position: absolute;
+					transform: rotate(45deg);
+					bottom: 8px;
+					left: 0;
+					right: 0;
+					margin: auto;
+				}
 			}
 		}
 
@@ -175,6 +190,7 @@
 							margin: 0;
 							z-index: 1;
 						}
+
 						&:hover a {
 							color: rgb(193, 211, 197);
 						}
@@ -192,8 +208,10 @@
 
 		.menuContainer {
 			bottom: 0px;
+
 			.menuWrapper {
 				width: 85vw;
+
 				.menu {
 					height: 9.5vw;
 

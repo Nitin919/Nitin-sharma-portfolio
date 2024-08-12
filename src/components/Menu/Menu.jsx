@@ -14,21 +14,28 @@ export default function Menu({ currentPage, selectPage }) {
 		<motion.section className='menuSection' variants={menuAnim} initial='init' animate='anim'>
 			<Location />
 
-			<div className='menuContainer'>
-				<motion.div
-					className='menuButton'
-					variants={menuButtonAnim}
-					initial='close'
-					animate={isMenuOpen ? 'open' : 'close'}
-					whileHover='hover'
-					whileTap='tap'
-					onTapStart={() => setIsMenuOpen(!isMenuOpen)}
-				>
-					<motion.div className='top' variants={buttonIconAnim}></motion.div>
-					<motion.div className='left' variants={buttonIconAnim}></motion.div>
-					<motion.div className='right' variants={buttonIconAnim}></motion.div>
-					<motion.div className='bottom' variants={buttonIconAnim}></motion.div>
-				</motion.div>
+			<div className='menuContainer'> 
+				{/* Add a flexbox container to manage layout */}
+				<div className='menuButtonContainer'>
+					{/* Add the "Click Here" text */}
+					<div className='clickHereText'>Click Here</div>
+
+					<motion.div
+						className='menuButton'
+						variants={menuButtonAnim}
+						initial='close'
+						animate={isMenuOpen ? 'open' : 'close'}
+						whileHover='hover'
+						whileTap='tap'
+						onTapStart={() => setIsMenuOpen(!isMenuOpen)}
+					>
+						<motion.div className='top' variants={buttonIconAnim}></motion.div>
+						<motion.div className='left' variants={buttonIconAnim}></motion.div>
+						<motion.div className='right' variants={buttonIconAnim}></motion.div>
+						<motion.div className='bottom' variants={buttonIconAnim}></motion.div>
+					</motion.div>
+				</div>
+
 				<motion.div
 					variants={menuWrapperAnim}
 					className='menuWrapper'
