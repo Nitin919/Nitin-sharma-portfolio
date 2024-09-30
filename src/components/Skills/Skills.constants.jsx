@@ -36,7 +36,7 @@ export const skillCat = {
 		categoryName: 'Mobile Development',
 		percentage: 20,
 		skillList: [
-			{ name: 'Xamarin', xp: '1 Months', icon: xamarinIcon },
+			{ name: 'Xamarin', xp: '1 YRS', icon: xamarinIcon },
 			
 		],
 	},
