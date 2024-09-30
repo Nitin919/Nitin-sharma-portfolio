@@ -20,15 +20,15 @@ export const skillCat = {
 		categoryName: 'Web Development',
 		percentage: 60,
 		skillList: [
-			{ name: 'HTML', xp: '1 YRS', icon: htmlIcon },
-			{ name: 'CSS', xp: '1 YRS', icon: cssIcon },
-			{ name: 'Javascript', xp: '1 YRS', icon: jsIcon },
-			{ name: 'Bootstrap', xp: '1 YRS', icon: bootstrapIcon },
-			{ name: 'C#', xp: '1 YRS', icon: csharpIcon },
-			{ name: 'React js', xp: '1 YRS', icon: reactIcon },
+			{ name: 'HTML', xp: '2 YRS', icon: htmlIcon },
+			{ name: 'CSS', xp: '2 YRS', icon: cssIcon },
+			{ name: 'Javascript', xp: '2 YRS', icon: jsIcon },
+			{ name: 'Bootstrap', xp: '2 YRS', icon: bootstrapIcon },
+			{ name: 'C#', xp: '2 YRS', icon: csharpIcon },
+			{ name: 'React js', xp: '2 YRS', icon: reactIcon },
 			
 			
-			{ name: 'Node js', xp: '1 YRS', icon: nodeIcon },
+			{ name: 'Node js', xp: '2 YRS', icon: nodeIcon },
 			
 		],
 	},
@@ -36,7 +36,7 @@ export const skillCat = {
 		categoryName: 'Mobile Development',
 		percentage: 20,
 		skillList: [
-			{ name: 'Xamarin', xp: '3 Months', icon: xamarinIcon },
+			{ name: 'Xamarin', xp: '1 Months', icon: xamarinIcon },
 			
 		],
 	},
@@ -44,8 +44,8 @@ export const skillCat = {
 		categoryName: 'Soft-Dev Tools',
 		percentage: 20,
 		skillList: [
-			{ name: 'VS 2022 & VS Code Code', xp: '1 YRS', icon: vscodeIcon },
-			{ name: 'Github', xp: '1 YRS', icon: githubIcon },
+			{ name: 'VS 2022 & VS Code Code', xp: '2 YRS', icon: vscodeIcon },
+			{ name: 'Github', xp: '2 YRS', icon: githubIcon },
 			
 			
 		],
