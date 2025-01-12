@@ -2,7 +2,7 @@
 
 export const socialLinks = [
 	
-	{name: "Resume", link: 'https://drive.google.com/file/d/13Fpha4epmX85dkfeX-bvay58sPPJMsdt/view?usp=sharing'},
+	{name: "Resume", link: 'https://drive.google.com/file/d/15xQmT7kZAKNt42YM1fq4EyWPzrkuA_ir/view?usp=sharing'},
 	{ name: 'LinkedIn', link: 'https://www.linkedin.com/in/nitin-sharma-759b202a9' },
 	{ name: 'Github', link: 'https://github.com/Nitin919/' },
 
